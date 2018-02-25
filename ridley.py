@@ -71,7 +71,7 @@ class MyFrame(wx.Frame):
        		except:
        			
        			print "Sorry, please try a different " 
-       			winspeech.say("Try a different question")
+       			winspeech.say("Try another question")
        			
        			
 			
